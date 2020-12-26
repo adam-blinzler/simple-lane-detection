@@ -1,0 +1,4 @@
+Add your prefered NN weights here. No included due to size.
+
+Yolov3 was used from this link.
+https://pjreddie.com/darknet/yolo/
